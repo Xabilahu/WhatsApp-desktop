@@ -42,6 +42,7 @@
     "pureimage": "0.2.1"
   },
   "devDependencies": {
+    "minimist": ">=1.2.2",
     "electron": "^8.2.0",
     "electron-builder": "^22.4.1"
   }
